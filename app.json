@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X 2.0",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/4f1b2d2dcc002760b9145.jpg",
+  "name": "AMANxSAHIL 2.0",
+  "description": "THE SUPER USERBOT MADED BY TEAM AMAN AND SAHIL MANY MODULES AND SUPER BOT; JOIN @S4SAHILHACKER FOR HELP ",
+  "logo": "https://te.legra.ph/file/27937498a1f8ce72743e2.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/UltraX2/",
-  "website": "https://github.com/ULTRA-OP/UltraX2/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/opbrutal/ULTRA",
+  "website": "https://github.com/opbrutal/ULTRA",
+  "success_url": "https://t.me/S4SAHILHACKER",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -22,8 +22,8 @@
       "value": "https://telegra.ph/file/359cba4e0d60f8ea972d6.png",
       "required": false
     },
-    "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+    "ALIVE_NAME BY AMAN XD ": {
+      "description": "Fill your Full name or Username like @A_4_AMAN_OFFICCIAL.",
       "value": "",
       "required": false
     },
@@ -32,11 +32,11 @@
       "value": "",
       "required": false
     },
-    "APP_ID": {
+    "APP_ID BY AMAN XD": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH BY AMAN XD": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
     },
